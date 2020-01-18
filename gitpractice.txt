@@ -28,3 +28,7 @@ git status
 git restore index.html -- it will revert back the changes.
 git commit -m 'Changed app.js'
 git branch login
+git remote add origin https://github.com/dbaferoz/gitpractice.git
+git remote
+
+git push -u origin master
