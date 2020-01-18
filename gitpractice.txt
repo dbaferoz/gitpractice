@@ -1,0 +1,30 @@
+git init
+git add <file>
+git status
+git commit 
+
+git push
+git pull
+git clone 
+git --virsion
+ 
+----
+-- in git bash below commands tested.
+git init
+git config --global user.name "dbaferoz"
+ git config --global user.email "dbaferoz@gmail.com"
+dir
+git add index.html
+git status
+git rm --cached index.html
+git add *.html
+git status
+git rm --cached index.html
+git status
+git add *
+git status 
+-- make some changes to index.html.
+git status
+git restore index.html -- it will revert back the changes.
+git commit -m 'Changed app.js'
+git branch login
