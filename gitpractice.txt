@@ -32,3 +32,7 @@ git remote add origin https://github.com/dbaferoz/gitpractice.git
 git remote
 
 git push -u origin master
+
+git clone https://github.com/dbaferoz/gitpractice.git  -------> this command is to clone the rep , for this one folder needs to be created , rite click on it , open the git bash , past above command with changed / required directory path.
+
+git pull  --- This command is to get the updates from the repo , there may be chances that other college has made any changes to it.
